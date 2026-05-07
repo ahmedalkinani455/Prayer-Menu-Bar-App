@@ -1,0 +1,6 @@
+geocoder==1.38.1
+geopy==2.4.1
+py2app==0.28.10
+requests==2.33.1
+rumps==0.4.0
+timezonefinder==8.2.4
