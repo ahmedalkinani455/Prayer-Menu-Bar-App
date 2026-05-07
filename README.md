@@ -1,1 +1,1 @@
-# Personal-Python-Project---Prayer-Menu-Bar-App
+# Prayer Menu Bar App - Python Project
