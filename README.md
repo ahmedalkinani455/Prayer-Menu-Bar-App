@@ -22,7 +22,7 @@ A MacOS menu bar app that displays Islamic prayer times based on your location (
 2. Create a virtual environment and install dependencies
 `python3 -m venv .venv`
 `source .venv/bin/activate`
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 3. Bundling as a macOS App
 `pip install py2app` - if not already installed
