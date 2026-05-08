@@ -16,17 +16,24 @@ A MacOS menu bar app that displays Islamic prayer times based on your location (
 
 ## Installation
 1. Clone the repo
+```bash
 `git clone https://github.com/ahmedalkinani455/Prayer-Menu-Bar-App.git`
 `cd prayer-menu-bar-app`
+```
 
 2. Create a virtual environment and install dependencies
+```bash
 `python3 -m venv .venv`
 `source .venv/bin/activate`
 `pip install -r requirements.txt`
+```
 
 3. Bundling as a macOS App
+```bash
 `pip install py2app` - if not already installed
 `python setup.py py2app`
+```
+The bundled app itself can be found in the `dist` folder 
 
 ## Dependencies 
 - rumps -> macOS menu bar framework
